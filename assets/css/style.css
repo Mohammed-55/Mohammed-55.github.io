@@ -126,7 +126,6 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   line-height: 1;
   font-weight: 400;
-  letter-spacing: 2px;
   text-transform: uppercase;
 }
 #header .logo a {
@@ -362,7 +361,18 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
 }
+@media (max-width: 992px) {
+.btn {
+  
+    display: inline-flex;
+    justify-content: center;
+    max-width: 50%;
+    line-height: 0.1;
+    padding: 0.7em .70em;
+    position: relative;
 
+}
+}
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/

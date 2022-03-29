@@ -43,7 +43,7 @@ if(getLanuage === "arabic"){
      fotterspan.innerHTML="محمد بن شيهون";
      degree.innerHTML= "الشهادة: بكالوريوس"
 birthday.innerHTML="تاريخ الميلاد: 25 صفر 1419";
-city.innerHTML="المدينة: المدينة: جدة ، المملكة العربية السعودية";
+city.innerHTML="المدينة: جدة ، المملكة العربية السعودية";
 age.innerHTML="العمر: 23";
 mywebsite.innerHTML="الموقع: mohammed-cv.ga";
 mail.innerHTML="البريد الالكتروني: m7mdmyb@gmail.com";

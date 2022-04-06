@@ -68,7 +68,7 @@ c14.innerHTML="تطبيقات Microsoft365";
 c16.innerHTML="برمجة تطبيقات iOS في Swift";
 c17.innerHTML="أساسيات برمجة بايثون";
 c18.innerHTML="أمن المعلومات";
-c19.innerHTML="IC3";
+c19.innerHTML="IC3 Digital Literacy Certification";
      
 
 
@@ -99,7 +99,7 @@ c14.innerHTML="Microsoft365 applications";
 c16.innerHTML="Programming iOS applications in Swift";
 c17.innerHTML="Python Programming basics";
 c18.innerHTML="Information Security";
-c19.innerHTML="IC3";
+c19.innerHTML="IC3 Digital Literacy Certification";
 
 
     

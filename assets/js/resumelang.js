@@ -89,7 +89,7 @@ if(getLanuage === "arabic"){
     rus.innerHTML="Resume";
     summa.innerHTML="Sumary";
     myname.innerHTML="Mohamme Binshihon";
-    sumary.innerHTML="Graduate of computer science intrested in web development, I have exprince with html, css, java,javascript, sql, and php langues. also i have little expirince in c# and swift languges, Looking for a role where I can grow and learn from experienced team members while using the skills that I improved to help them.";
+    sumary.innerHTML="Graduate of computer science interested in web development, I have experience with html, CSS, java, JavaScript, sql, and php languages. also i have little experience in c# and swift languages, Looking for a role where I can grow and learn from experienced team members while using the skills that I improved to help them.";
     prof.innerHTML="Professional Experience";
     intership.innerHTML="Internship";
     smart.innerHTML="Smart Method";

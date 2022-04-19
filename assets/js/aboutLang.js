@@ -70,7 +70,7 @@ age.innerHTML="Age: 23";
 mywebsite.innerHTML="Website: mohammed-cv.ga";
 mail.innerHTML="Email: m7mdmyb@gmail.com";
 aboutme.innerHTML="About me";
-summary.innerHTML="Graduate of computer science interested in web development, I have experience with html, css, java, javascript, sql, and php languages. also i have little experience in c# and swift languages, Looking for a role where I can grow and learn from experienced team members while using the skills that I improved to help them.";
+summary.innerHTML="Graduate of computer science interested in web development, I have experience with html, CSS, java, JavaScript, sql, and php languages. also i have little experience in c# and swift languages, Looking for a role where I can grow and learn from experienced team members while using the skills that I improved to help them.";
 myskill.innerHTML="Skills" ;
      
 
